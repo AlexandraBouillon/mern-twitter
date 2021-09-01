@@ -1,2 +1,13 @@
+
+    echo "# mern-twitter" >> README.md
+    git init
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin https://github.com/AlexandraBouillon/mern-twitter.git
+    git push -u origin main
+
 -[] ignore the keys in the gitIgnore and remove it in the cache
-git rm --cached backend/config/keys.js
+    git rm --cached backend/config/keys.js
+
+
+-[]

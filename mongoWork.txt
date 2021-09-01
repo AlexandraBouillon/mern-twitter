@@ -1,0 +1,24 @@
+-[]created an account
+-[]created a cluster
+    can have multiple DB
+    gave a cluster name
+    shared the hosting (for free w/ AWS as cloud provider)
+    selected M0 instance (in AWS for free version)
+
+-[] allow access to IPs
+        ex: 0.0.0.0
+
+-[] create DB user
+
+-[] connecting to our app
+    copy the url by the mongodb atlas and paste it in the keys folder or the .env
+    change the password and the DB name
+    "mongodb+srv://alexandrabouillon:EXAMPLEPASSWORD@cluster1.hjjsj.mongodb.net/EXAMPLEDB?retryWrites=true&w=majority",
+
+-[] connect to MongoDB Compass
+    copy the same url intop the mongoDB Compass to connect to the cluster
+
+
+-[] created db
+    create DB (via GUI) and give it a name and give it a collection name
+    create other collections based on the db schema
