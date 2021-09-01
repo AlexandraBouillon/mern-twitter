@@ -1,0 +1,2 @@
+-[] ignore the keys in the gitIgnore and remove it in the cache
+git rm --cached backend/config/keys.js
